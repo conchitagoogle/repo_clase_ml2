@@ -2,6 +2,7 @@ numpy
 pandas
 scipy
 matplotlib
+ydata_profiling
 streamlit
 streamlit-pandas-profiling
-ydata_profiling
+
