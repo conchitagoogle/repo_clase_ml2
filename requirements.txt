@@ -3,6 +3,6 @@ pandas
 scipy
 matplotlib
 streamlit
-pandas-profiling
+ydata_profiling
 streamlit-pandas-profiling
 
